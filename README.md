@@ -11,5 +11,4 @@ common pdf box examples. This repo isnt particularly for modification but rather
 5. Youre on your way! Enjoy!
 
 ## Contributing 
-If any changes to README.md need to be done make then before submitting pull request. I will review and get back to you asap. Thank you!
-Happy programming!
+If any changes to README.md need to be done make them before submitting pull request. I will review and get back to you asap. Thank you and Happy programming!
