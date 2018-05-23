@@ -10,6 +10,6 @@ common pdf box examples. This repo isnt particularly for modification but rather
 4. Navigate to pom.xml in your project and copy the pom.xml contents of this repo to your project. 
 5. Youre on your way! Enjoy!
 
-##Contributing 
+## Contributing 
 If any changes to README.md need to be done make then before submitting pull request. I will review and get back to you asap. Thank you!
 Happy programming!
