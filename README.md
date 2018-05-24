@@ -1,6 +1,6 @@
 # PDFBox_Examples
 PDF Box is a java library designed to update, delete, and interact with pdf files. This repo has examples of how to use the most 
-common pdf box examples. This repo isnt particularly for modification but rather to help someone wanting to learn pdf box. 
+common pdf box examples. This repo isnt particularly for modification but rather to help someone wanting to learn pdf box. Navigate to the src file for all of the examples. 
 
 ## Setting up dev evironment
 1. Download pdfBox at [this](https://pdfbox.apache.org/) website. Download fontbox, pdfbox, pdfbox tools, preflight, and xmpbox.
